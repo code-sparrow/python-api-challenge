@@ -11,7 +11,7 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-<img src="Images/equatorsign.png" alt="Equator" width="960" height="593" />
+<img src="Images/equatorsign.png" />
 
 ### Before You Begin
 
