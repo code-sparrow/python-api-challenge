@@ -11,7 +11,7 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![Equator](Images/equatorsign.png)
+<img src="Images/equatorsign.png" alt="Equator" />
 
 ### Before You Begin
 
